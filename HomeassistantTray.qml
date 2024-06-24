@@ -16,6 +16,6 @@ SystrayIcon {
 	Image {
 		id: imghomeAssistant
 		anchors.centerIn: parent
-		source: "qrc:/tsc/homeAssistantSystrayIcon.png"
+		source: "qrc:/tsc/homeAssistant.png"
 	}
 }
