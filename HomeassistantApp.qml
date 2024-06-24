@@ -14,7 +14,7 @@ App {
 
     property url trayUrl: "HomeassistantTray.qml"
     property SystrayIcon homeAssistantTray: SystrayIcon {}
-    property string iconSwitch: "no"
+    property string iconSwitch: "yes"
 
     property HomeassistantConfigurationScreen homeAssistantConfigurationScreen
     property url homeAssistantConfigurationScreenUrl : "HomeassistantConfigurationScreen.qml"
